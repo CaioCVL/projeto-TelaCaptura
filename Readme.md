@@ -1,0 +1,1 @@
+Ola, esse projeto de placa de captura serve para captar clientes atraves de um formulario, enviando e-mails sobre a sua palestra.
