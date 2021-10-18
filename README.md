@@ -1,7 +1,6 @@
 # Tela de Captura.
 ## Projeto que captura clientes através de um formulário.
 ### feito com:
-* JS.
 * HTML.
 * CSS.
 <div style="display: inline_block"><br>
